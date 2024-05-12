@@ -24,58 +24,60 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
-<html>
-	<head>
-		<title>Rakshitha P Time Table</title>
-	</head>
-	<body align="center">
-        <img src="/static/logo.png" height="200" width="800" >
-	<table border="2" cellspacing="5" cellpadding="5" width="800" height="50" align="center">
-        <caption> SLOT TIME TABLE-Rakshitha P(212223220083)</caption>
-		<tr bgcolor="Light blue" align="center">
-			<th>Day/Time</th>
-			<th>Monday</th>
-			<th>Tuesday</th>
-                        <th>Wednesday</th>
-			<th>Thursday</th>
-			<th>Friday</th>
-		</tr>
-		<tr bgcolor="gold" align="center">
-			<th bgcolor="Light blue">8-10</th>
-			<td>WEB</td>
-			<td>BEEE</td>
-			<td>Chemistry</td>
-			<td>Machine Learning</td>
-			<td>BEEE</td>
-		</tr>
-		<tr bgcolor="gold" align="center">
-			<th bgcolor="Light Blue">10-12</th>
-			<td>FREE SLOT</td>
-			<td>C Programing</td>
-			<td>Probability and queing model</td>
-			<td>C programing</td>
-			<td>Machine learning</td>
-		</tr>
-		<tr bgcolor="gold" align="center">
-			<th bgcolor="LIght blue">12-1</th>
-			<td colspan="5" align="center">LUNCH</td>
-		</tr>
-		<tr bgcolor="gold" align="center">
-			<th bgcolor="Light Blue">1-3</th>
-			<td>Creative Skill</td>
-			<td>Chemistry</td>
-			<td>FREE SLOT</td>
-			<td>FREE SLOT</td>
-			<td>Computer Network</td>
-		</tr>
-		<tr bgcolor="gold" align="center">
-			<th bgcolor="Light Blue">3-5</th>
-                        <td>FREE SLOT</td>
-			<td>FREE SLOT</td>
-			<td>Computer Network</td>
-			<td>WEB</td>
-			<td>FREE SLOT</td>
-			
+'''
+
+		<html>
+			<head>
+				<title>Rakshitha P Time Table</title>
+			</head>
+			<body align="center">
+		        <img src="/static/logo.png" height="200" width="800" >
+			<table border="2" cellspacing="5" cellpadding="5" width="800" height="50" align="center">
+		        <caption> SLOT TIME TABLE-Rakshitha P(212223220083)</caption>
+				<tr bgcolor="Light blue" align="center">
+					<th>Day/Time</th>
+					<th>Monday</th>
+					<th>Tuesday</th>
+		                        <th>Wednesday</th>
+					<th>Thursday</th>
+					<th>Friday</th>
+				</tr>
+				<tr bgcolor="gold" align="center">
+					<th bgcolor="Light blue">8-10</th>
+					<td>WEB</td>
+					<td>BEEE</td>
+					<td>Chemistry</td>
+					<td>Machine Learning</td>
+					<td>BEEE</td>
+				</tr>
+				<tr bgcolor="gold" align="center">
+					<th bgcolor="Light Blue">10-12</th>
+					<td>FREE SLOT</td>
+					<td>C Programing</td>
+					<td>Probability and queing model</td>
+					<td>C programing</td>
+					<td>Machine learning</td>
+				</tr>
+				<tr bgcolor="gold" align="center">
+					<th bgcolor="LIght blue">12-1</th>
+					<td colspan="5" align="center">LUNCH</td>
+				</tr>
+				<tr bgcolor="gold" align="center">
+					<th bgcolor="Light Blue">1-3</th>
+					<td>Creative Skill</td>
+					<td>Chemistry</td>
+					<td>FREE SLOT</td>
+					<td>FREE SLOT</td>
+					<td>Computer Network</td>
+				</tr>
+				<tr bgcolor="gold" align="center">
+					<th bgcolor="Light Blue">3-5</th>
+		                        <td>FREE SLOT</td>
+					<td>FREE SLOT</td>
+					<td>Computer Network</td>
+					<td>WEB</td>
+					<td>FREE SLOT</td>
+					
 	</table>
     <br>
     <table border="2" cellspacing="5" cellpadding="5" width="800" height="50" align="center">
